@@ -2,38 +2,32 @@ Oleksii Markhovskyi
 
 https://github.com/oleksmarkh
 
-Fields of interest:
+
+Fields of interest, skills
+--------------------------
+
 + software architecture/design, product shaping and processes
 + web apps, APIs, maps, data visualization, games
-+ music (bass guitar), sports (hiking/cycling/running), martial arts, reading (sci-fi, history)
++ JS/TS (React, Node, WebExtensions), WebGL, Python, AWS, DBs
++ music (bass guitar), sports (hiking/cycling/running), martial arts
 
 
 Experience
 ----------
 
 Product companies and startups:
-+ HERE Technologies:            senior software developer     (Berlin,    03.2018 -       …)  ⁘⁖
-+ KPV Lab, Infographics Group:  senior front-end developer    (Berlin,    03.2017 - 03.2018)  ⁘
-+ BlackRock Web Solutions:      lead software developer       (Berlin,           01-03.2017)  ․
-+ Collabary by Zalando:         senior front-end developer    (Berlin,           06-12.2016)  ‥
-+ Avira:                        web developer, product owner  (Tettnang,  11.2013 - 05.2016)  ⁘⁘‥
-+ Typecast by Monotype:         back-end developer (remote)   (Kyiv,             07-10.2013)  ․
++ HERE Technologies:            senior software developer     (Berlin,    2018 -    …)
++ KPV Lab, Infographics Group:  senior front-end developer    (Berlin,    2017 - 2018)
++ Avira:                        web developer, product owner  (Tettnang,  2013 - 2016)
++ Typecast by Monotype:         back-end developer (remote)   (Kyiv,      2013 - 2013)
 
 Service companies:
-+ Cogniance:                    web developer                 (Kyiv,      10.2012 - 07.2013)  ⁖
-+ Dynamo Development:           web developer                 (Kyiv,      02.2011 - 08.2012)  ⁘‥
++ Cogniance:                    web developer                 (Kyiv,      2012 - 2013)
++ Dynamo Development:           web developer                 (Kyiv,      2011 - 2012)
 
 Student jobs:
-+ Terrasoft:                    technical support engineer    (Kyiv,      08.2010 - 02.2011)  ‥
-+ Euro-Technology AG:           embedded software engineer    (Kyiv,      11.2008 - 06.2010)  ⁘⁖
-
-
-Skills
-------
-
-+ general:              elaboration/research, planning, prototyping, consistent and maintainable docs, interviewing, mentoring
-+ languages/platforms:  JS (vanilla, TS, React, Node, WebExtensions), WebGL, Python (Tornado, Flask), AWS, various testing libs
-+ storages:             Redis, Postgres, MySQL, SQLite
++ Terrasoft:                    technical support engineer    (Kyiv,      2010 - 2011)
++ Euro-Technology AG:           embedded software engineer    (Kyiv,      2008 - 2010)
 
 
 Education
@@ -42,12 +36,3 @@ Education
 NTUU "KPI", The Institute of Physics and Technology:
 + MSc:   information security               (2009 - 2011)
 + BASc:  applied mathematics, cryptography  (2005 - 2009)
-
-
-Languages
----------
-
-+ Ukrainian  (native)
-+ Russian    (native)
-+ English    (full professional proficiency)
-+ German     (working proficiency)

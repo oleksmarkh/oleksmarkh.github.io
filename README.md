@@ -6,21 +6,17 @@
 A personal page (blog placeholder).
 
 ## Motivation/goals
-
 Collecting personal links that make sense at this point.
 
 ## Status
-
 Permanently *in progress*. The `log/` folder receives updates occasionally.
 
 ## How to run it?
-
 ```bash
 $ python3 -m http.server  # run a static local server
 ```
 
 ## Development setup
-
 There are no dependencies here :)
 
 HTML is not a [compilation target](https://christianheilmann.com/2019/01/28/html-is-and-always-was-a-compilation-target-can-we-deal-with-that/) in this repo and styles are minimal, no need to build them.

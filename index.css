@@ -1,8 +1,8 @@
 @import url("//fonts.googleapis.com/css?family=Roboto+Slab:300");
 
 :root {
-  --font-size-large: 20px;
-  --font-size-medium: 18px;
+  --font-size-large: 1.25rem;
+  --font-size-medium: 1.1rem;
 
   --block-offset-large: 32px;
   --block-offset-medium: 16px;
@@ -10,6 +10,12 @@
   --photo-size-large: 200px;
   --photo-size-medium: 160px;
   --photo-size-small: 120px;
+
+  --color-white: #fff;
+  --color-dark-grey: #444;
+  --color-blue: #369;
+  --color-red: #c20;
+  --color-black: #000;
 }
 
 body {
@@ -18,7 +24,7 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0 var(--block-offset-medium);
-  color: #444;
+  color: var(--color-dark-grey);
   text-rendering: optimizeLegibility;
 }
 
@@ -26,14 +32,9 @@ body > * {
   margin: var(--block-offset-medium) auto;
 }
 
-::-moz-selection {
-  background-color: #c20;
-  color: white;
-}
-
 ::selection {
-  background-color: #c20;
-  color: white;
+  background-color: var(--color-red);
+  color: var(--color-white);
 }
 
 p {
@@ -48,10 +49,6 @@ p:last-child {
   margin-bottom: 0;
 }
 
-.photo {
-  height: var(--photo-size-medium);
-}
-
 img {
   display: block;
   width: var(--photo-size-medium);
@@ -60,18 +57,24 @@ img {
 }
 
 a {
-  color: inherit;
-  border-bottom: 2px dotted #888;
+  color: var(--color-blue);
   text-decoration: none;
 }
 
 a:hover {
-  color: black;
-  border-color: black;
+  text-decoration: underline;
 }
 
 time {
   font-size: smaller;
+}
+
+.photo {
+  height: var(--photo-size-medium);
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 @media all and (min-width: 800px) {
@@ -89,26 +92,22 @@ time {
     text-align: justify;
   }
 
-  .photo {
-    height: var(--photo-size-large);
-  }
-
   img {
     width: var(--photo-size-large);
     margin: 0 auto;
   }
+
+  .photo {
+    height: var(--photo-size-large);
+  }
 }
 
 @media all and (max-width: 600px) {
-  .photo {
-    height: var(--photo-size-small);
-  }
-
   img {
     width: var(--photo-size-small);
   }
-}
 
-.nowrap {
-  white-space: nowrap;
+  .photo {
+    height: var(--photo-size-small);
+  }
 }
