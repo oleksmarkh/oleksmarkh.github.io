@@ -5,9 +5,6 @@
 
 A personal page (blog placeholder).
 
-## Motivation/goals
-Collecting personal links that make sense at this point.
-
 ## Status
 Permanently *in progress*. The `log/` folder receives updates occasionally.
 
