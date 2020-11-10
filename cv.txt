@@ -8,26 +8,26 @@ Fields of interest, skills
 
 + software architecture/design, product shaping and processes
 + web apps, APIs, maps, data visualization, games
-+ JS/TS (React, Node, WebExtensions), WebGL, Python, AWS, DBs
-+ music (bass guitar), sports (hiking/cycling/running), martial arts
++ JS/TS (React, Node, WebExtensions), WebGL, Python, DBs
++ music (bass/guitar), sports (running/cycling/hiking), martial arts
 
 
 Experience
 ----------
 
-Product companies and startups:
-+ HERE Technologies:            senior software developer     (Berlin,    2018 -    …)
-+ KPV Lab, Infographics Group:  senior front-end developer    (Berlin,    2017 - 2018)
-+ Avira:                        web developer, product owner  (Tettnang,  2013 - 2016)
-+ Typecast by Monotype:         back-end developer (remote)   (Kyiv,      2013 - 2013)
+Product companies:
++ HERE Technologies:   senior software developer     (Berlin,    2018 -    …)
++ KPV Lab, IGG:        senior front-end developer    (Berlin,    2017 - 2018)
++ Avira:               web developer, product owner  (Tettnang,  2013 - 2016)
++ Typecast, Monotype:  back-end developer (remote)   (Kyiv,      2013 - 2013)
 
 Service companies:
-+ Cogniance:                    web developer                 (Kyiv,      2012 - 2013)
-+ Dynamo Development:           web developer                 (Kyiv,      2011 - 2012)
++ Cogniance:           web developer                 (Kyiv,      2012 - 2013)
++ Dynamo Development:  web developer                 (Kyiv,      2011 - 2012)
 
 Student jobs:
-+ Terrasoft:                    technical support engineer    (Kyiv,      2010 - 2011)
-+ Euro-Technology AG:           embedded software engineer    (Kyiv,      2008 - 2010)
++ Terrasoft:           technical support engineer    (Kyiv,      2010 - 2011)
++ Euro-Technology AG:  embedded software engineer    (Kyiv,      2008 - 2010)
 
 
 Education
