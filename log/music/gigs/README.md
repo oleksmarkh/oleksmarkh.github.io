@@ -1,7 +1,4 @@
 # Gigs
-## 2020
-(upcoming)
-
 ## 2019
 * 2019-09-22: **Between the Buried and Me** (Berlin, Lido)
 * 2019-06-04: **Tool** (Prague, O2 arena)
